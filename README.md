@@ -1,5 +1,5 @@
 # Codin-Game
- Repertory of my solutions to CodinGame problems
+ Some of my solutions to CodinGame problems
 
 So far:
  - Fantastic Bits (Gold League 516th)
